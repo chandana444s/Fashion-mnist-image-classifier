@@ -1,0 +1,28 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow models (if you don't want to track the model file in Git)
+# fashion_cnn_model_with_augmentation.h5
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# MacOS system files
+.DS_Store
